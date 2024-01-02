@@ -102,9 +102,9 @@ Assign Permissions: ost-config.php
 <h4>Congratulations, hopefully it is installed with no errors!</h4>
 
 ![Help Desk Portal](https://github.com/Kolapo72/installation/assets/147263584/29554ecf-49ef-4f5a-b1fc-e87e30bac42c)
-<li>Browse to your help desk login page: http://localhost/osTicket/scp/login.php</li>
+<li>Browse to your Help Desk login page: http://localhost/osTicket/scp/login.php</li>
 
 ----------------------------------------------------------------------------------------------------
 
 ![User Portal](https://github.com/Kolapo72/installation/assets/147263584/e3abcb01-12e8-419d-9b85-fedfa6b4592a)
-<li>End Users osTicket URL:	http://localhost/osTicket/</li>
+<li>End Users osTicket URL: http://localhost/osTicket/</li>
