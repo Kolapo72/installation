@@ -1,5 +1,5 @@
-<p align="center">
-  
+<p class="aligncenter">
+	
 ![osTicket logo](https://github.com/Kolapo72/installation/assets/147263584/7a82fce3-40e1-4b08-ab51-ccde0b6301f5)
 </p>
 
@@ -35,6 +35,9 @@ Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents int
 
 <p>Note: If you are still having trouble downloading PHP 7.3.8, please try downloading and installing Google Chrome and doing it from within there.</p>
 
+---------------------------------------------------------------------------------------------------
+
+![VC Distribute](https://github.com/Kolapo72/installation/assets/147263584/ae5aa25f-201f-4455-9d97-b1b8ea26a029)
 <h4>Step 5: Download and install VC_redist.x86.exe</h4>
 
 ---------------------------------------------------------------------------------------------------
@@ -97,5 +100,11 @@ Assign Permissions: ost-config.php
 <ul>Click “Install Now!”</ul>
 
 <h4>Congratulations, hopefully it is installed with no errors!</h4>
+
+![Help Desk Portal](https://github.com/Kolapo72/installation/assets/147263584/29554ecf-49ef-4f5a-b1fc-e87e30bac42c)
 <li>Browse to your help desk login page: http://localhost/osTicket/scp/login.php</li>
+
+----------------------------------------------------------------------------------------------------
+
+![User Portal](https://github.com/Kolapo72/installation/assets/147263584/e3abcb01-12e8-419d-9b85-fedfa6b4592a)
 <li>End Users osTicket URL:	http://localhost/osTicket/</li>
